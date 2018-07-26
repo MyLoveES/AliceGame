@@ -1,0 +1,30 @@
+﻿<dict>  
+    <key>Title</key>  
+    <string>弹幕游戏</string>  
+    <key>GameStart</key>  
+    <string>开始游戏</string>  
+    <key>Help</key>  
+    <string>帮助</string>  
+    <key>Wudi</key>  
+    <string>无敌:</string>  
+    <key>Option</key>  
+    <string>选项</string>
+    <key>Result</key>  
+    <string>历史战绩</string>
+    <key>Music</key>  
+    <string>音乐:</string>
+    <key>Sound</key>  
+    <string>音效:</string>  
+    <key>Current</key>  
+    <string>最近挑战:</string>  
+    <key>History</key>  
+    <string>历史战绩:</string>
+    <key>Help1</key>  
+    <string>山东省软件设计大赛参赛作品</string>
+    <key>Help2</key>  
+    <string>通过拖动人物，躲避敌人子弹
+击败敌人获得胜利</string>
+    <key>Help3</key>  
+    <string>图片来源: 东方永夜抄
+BGM: 秋·浸寻 (饭碗的彼岸) </string>  
+</dict>
